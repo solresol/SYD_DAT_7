@@ -23,6 +23,6 @@
 | Homework1.ipynb             | Monday Feb 20th   | Friday Feb 10th      |
 | Homework2.ipynb             | Monday Mar 6th    | Friday Feb 24th      |
 | Homework3.ipynb             | Monday Mar 20th   | Friday Mar 10th      |
-| Project final date          | Present Aug 10/12 |                      |
+| Project final date          | Present Apr 10/12 |                      |
 
 
