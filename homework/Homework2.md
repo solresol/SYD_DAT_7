@@ -2,7 +2,7 @@
 
 Make sure you have completed any labs that you might have missed or didn't finish.
 
-##Homework - Due March 6th, 2017
+##Homework - Due March 13th, 2017
 
 
 * For the following use the github repository you made for your project. 

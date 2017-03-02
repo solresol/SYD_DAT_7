@@ -1,6 +1,6 @@
 # SYD DAT 7 - Clustering and Trees
 
-##Homework - Due March 20th 2017
+##Homework - Due March 27th 2017
 
 * For the following, continue to use the github repository you made for your project
 * You don't have to use the same data that you used from the previous homework assignment if

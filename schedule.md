@@ -21,8 +21,8 @@
 | Assignment                  | Due Date (8am)    | Suggested Start Date |
 | --------------------------- | ----------------- | -------------------- |
 | Homework1.ipynb             | Monday Feb 20th   | Friday Feb 10th      |
-| Homework2.ipynb             | Monday Mar 6th    | Friday Feb 24th      |
-| Homework3.ipynb             | Monday Mar 20th   | Friday Mar 10th      |
+| Homework2.ipynb             | Monday Mar 13th   | Friday Feb 24th      |
+| Homework3.ipynb             | Monday Mar 27th   | Friday Mar 10th      |
 | Project final date          | Present Apr 10/12 |                      |
 
 
