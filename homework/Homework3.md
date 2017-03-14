@@ -16,9 +16,7 @@
   would be good, try to make it as simple as possible. If you think
   accuracy is more important, use ensembling or any other techniques
   that you have learned.
-* Modify one of the models you have created so that you can evaluate
-  its bias-variance trade-off. (You can use one of the models from the
-  previous homework assignment if you think that looks more
-  interesting.)
+* Evaluate the success of your model (you can use another model from another
+  assigment if this doesn't work well).
 
 
